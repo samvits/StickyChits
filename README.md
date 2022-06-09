@@ -1,5 +1,5 @@
-div align "center'
+
 
 ### StickyChits
 
-#### You can view the project [here](https://samvits.github.io/StickyChits/ "Click me!").
+#### You can view the project [here](https://samvits.github.io/StickyChits "Click me!").
